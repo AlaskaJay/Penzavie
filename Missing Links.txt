@@ -1,3 +1,4 @@
 info/stories/../locations/penzavie.html
 info/stories/../locations/plumos.html
 info/stories/../deities/omkrei.html
+info/stories/../deities/aiens.html
