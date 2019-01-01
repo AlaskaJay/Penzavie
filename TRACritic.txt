@@ -41,4 +41,45 @@ Page 15:
 *Also why are you mixing real world political figures into the game? (Kim Jong-Un)
 *July 4th is when North Korea nukes South Korea? Really?
 Page 17: So the Natural Disasters are what got the American States together? (also The Americas refers to North and South... not USA and SSA)
-There's so much grittiness around this setting... like, war and natural disasters and shit...
+There's so much grittiness around this setting... like, war and natural disasters and shit... Robot Racism in your fun Anime Game?
+Page 29, we finally get to character creation.
+Element costs 5 CP according to page 30
+Abilities: Wall Run makes no sense, do you have to level it past one?
+
+Professionals: have enough to not fail a majority of your skills. 
+
+Let's just run though the fighting styles
+At the start of combat, pick a fighting style effect. 
+
+Behemoth: Tankier, but like, 25 damage is two hits?
+Berserker: The best one maybe, broken forcefield build, counter attacks are really strong. Why not use the bonus combat action to dash and just be a speedster???
+Deceiver: The only example is a human, so you can't see the structure difference. 
+Defender: Forcefield slight requirement, but also, the most support combat style
+Heavy Hitter: Same broken build as Berserker
+Marksman: A damn good DPS
+No Style: pacafist run I guess? Not interesting.
+Speedster: Why go this when you can just, yknow, be a Beserker? just a different penelty? 
+
+General Skills: where I see plenty of issues.
+So general skills start at 0... so you have a 1% chance of passing something you're untrained it, which isn't the most fun.
+First Aid... the example contradicts the rule!
+Repair, same issue as First Aid
+There's a lot of simple or silly skills for a combat focused game with only 21 skills.
+
+UPGRADES:
+Registry Blocker: The GM knows their stats from playing, because you're the GM and can just... ask, or you ask them when they roll. 
+All Surface Movement: makes Wall Run Ability obsolete
+All Surface Contact: uhm, what?
+Unlimited Flight doesn't require Limited Flight for some reason.
+Energy Scanner: See clocked units? See Invisablity? 
+Enhanced Analysis is only a numerical boost
+Core Schematics: Wait... Repair can't fix Core? Well, that makes all the easy ways to deal Core damage really scary 
+Emergency First Aid Patch: Okay so obviously this is the bacta tanks from Megaman, like so much so, but how much are you going to have a tank that isn't a 5d10? and extended action is so weird. is Difficult a mechanical word? Why would you keep an even 4d10 tank?
+Numbers: half off a support unit but it makes upgrading it more expensive.
+
+So now we're at body upgrades.
+Elemental Protection: Weird! 
+Page 49!
+
+Extended Action:
+used for First Aid, Repair, Emergency First Aid Patch
