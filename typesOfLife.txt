@@ -1,0 +1,37 @@
+There are various ways to define life in Penzavie.
+
+- Whether or not they are sentient
+- Whether or not they are humanoid (or people)
+- Origin, as is plane of origin
+
+= Sentient =
+People: typically humanoid. mundane.
+	Humans:	Tall, shorter lives, created by 
+		Base humans: called Muld
+		Orcs
+		Hobgoblins
+	Elves:	Tall, longer lives, created by 
+		Base elves: called Rwll
+		Drow, firbolg, femorians
+	Dwarves:	Short, longer lives, created by 
+		Base dwarves: called 
+		Gnomes
+	Pethem:	short, shorter lives, created by 
+		Halflings
+		Goblins
+		Kobolds
+Monsters: not humanoid. magical.
+	Dragons, Sphinxes, Beholders
+Outsiders: Alignment is bad.
+	Angels	"LG"
+	Archons	"CG"
+	Slaad		"CN"
+	Demons	"CE"
+	Devils	"LE"
+	Modrons	"LN"
+
+= Not sentient =
+Beasts: mundane.
+	normal animals that exist on earth
+Magical creatures: not mundane
+	pegasis, hydra, griffins, sky leviathans
