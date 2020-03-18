@@ -12,10 +12,22 @@ Red is plateau-ish
 White is ice
 
 === Cosmology ===
+This section is the explanation of what the various planes of existance of the setting are.
 
-
+> Penzavie, the prime material, the mixture of magic and mundane. 
+	This plane is as shown by the map, seen above, and is described in great detail in the section labeled History
+> The Mundane Universe, a plain world, not too disimilar to our Earth. No magic at all.
+> The Magic Realm, a world where magic rules. Hard to many people understand the layout of this realm. 
+> Iustium, the Upper Ring, the Ring of Law
+	Angels, Devils, Modrons, and Inevitables are from this place.
+> Conturb, the Lower Ring, the Ring of Chaos
+	Archons, Demons, Slaad are from this place.
+> The Ring of Elements
+	Elementals are from this place.
+> The Elsewhere, the space between planes, where Abberations roam.
 
 === Astronomy ===
+This section is the explanation of how the astronomical set up of the setting is.
 
 The solar system in which Penzavie exists is as follows:
 > Plumos, the star, a wonderful beacon of light. 
