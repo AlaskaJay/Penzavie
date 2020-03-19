@@ -4,12 +4,12 @@ This txt should have all information you need to understand Penzavie.
 Link: https://alaskajay.github.io/Penzavie/map.png
 
 == Guide to colors ==
-Blue arrows is river flow
-Pink is river valleys
-Yellow is desert
-Black/dark is mountains
-Red is plateau-ish
-White is ice
+> Blue arrows is river flow
+> Pink is river valleys
+> Yellow is desert
+> Black/dark is mountains
+> Red is plateau-ish
+> White is ice
 
 === Cosmology ===
 This section is the explanation of what the various planes of existance of the setting are.
@@ -42,3 +42,8 @@ The solar system in which Penzavie exists is as follows:
 > A third gas giant that is red and has rings. It has a dark band across it's equator. Because of it's tilt, at certain times in history, it looks like an eye, with the rings as the whites, the red as the iris, and the black as the pupel. This affects mythos and there are outsiders that associate with this planet.
 > There is a small rocky and ice planet far out. This has three moons. It's cute.
 > ALSO THERE ARE MANY BEAUTIFUL COMETS
+
+=== Creation ===
+
+
+=== History ===
