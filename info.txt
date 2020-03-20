@@ -1,4 +1,4 @@
-This txt should have all information you need to understand Penzavie. 
+This txt should have all information you need to understand Penzavie. Remember that this fantasy setting, although DnD compatable, is not purely for Dungeons and Dragons, and is meant to be compatable with other games, such as Dungeon World, Burning Wheel, 13th Age, and others.
 
 === About the Map ===
 Link: https://alaskajay.github.io/Penzavie/map.png
@@ -16,15 +16,38 @@ This section is the explanation of what the various planes of existance of the s
 
 > Penzavie, the prime material, the mixture of magic and mundane. 
 	This plane is as shown by the map, seen above, and is described in great detail in the section labeled History
-> The Mundane Universe, a plain world, not too disimilar to our Earth. No magic at all.
+> The Mundane Universe, a plain world, not too disimilar to our Earth. No magic at all. 
 > The Magic Realm, a world where magic rules. Hard to many people understand the layout of this realm. 
-> Iustium, the Upper Ring, the Ring of Law
-	Angels, Devils, Modrons, and Inevitables are from this place.
-> Conturb, the Lower Ring, the Ring of Chaos
-	Archons, Demons, Slaad are from this place.
+> Iustium, the Upper Ring, the Ring of Law, 
+	> Planar North of the prime material
+	> Angels, Devils, Modrons, and Inevitables are from this place.
+> Conturb, the Lower Ring, the Ring of Chaos, 
+	> Planar South of the prime material
+	> Archons, Demons, Slaad are from this place.
 > The Ring of Elements
-	Elementals are from this place.
+	> Circles arounnd the prime material
+	> Elementals are from this place.
 > The Elsewhere, the space between planes, where Abberations roam.
+
+== About Alignment == 
+While the standard DnD alignments are alluded to in this lore, do not think that they are an objective truth. They are a narrative constructed by planar outsiders. While individuals might be able to categorized into an alignment, no race, ancestry, or group can be categorized into an alignment. The standards of what is Good and Evil are subjective. While this fiction instills that bigotry, slavery, and genocide are evil, it is unhelpful to try to use DnD alignment to quantify or categorize groups the way that standard DnD does. 
+
+That being said, Iustium and Conturb as locations have personality and will make assertions on what is lawful and chaotic. Below are examples of how they do so.
+
+Examples of things that are lawful
+> Consistancy
+> Order
+> A river flowing in a jungle
+> A second being one second long
+
+Examples of things that are chaotic
+> Randomness, to an extent
+> A river flowing uphill
+> Breaking the laws of physics
+> Time travel
+> What Lovecraft thought that Noneuclidian meant, even though he was really wrong about that
+
+Alignment kind of falls apart when you think that both the Rule of Law, which says that no one is above the law, a position of equality, and Nobility, which puts someone above the law, or at least represented more so than others in an unequal fashion, are both lawful positions, which is silly, just throw out alignment. This setting does not require you to pay attention to alignment. 
 
 === Astronomy ===
 This section is the explanation of how the astronomical set up of the setting is.
