@@ -104,7 +104,9 @@ Each of the four ancestries has at least one variant which is reptilian, one var
 Ancestries can produce fertile offspring between them, but over time, any community with multiple ancestries that brings in no other genetic material will tend to magically shift towards whatever ancestry, out of the ancestries present in that community, has the smallest global population at that time. 
 
 === History ===
-Year 0, the Epoch, is marked by the awakening of Plumos as a diety. This awakening allowed "civilization" (loaded term) to arise where it could not before in the everchanging realm before measurable time. 
+Year 0, the Epoch, is marked by the awakening of Plumos as a diety. This awakening allowed "civilization" (loaded term) to arise where it could not before in the everchanging realm before measurable time. This text will use civilization to mean any group of people who self-organize themselves and identify under a certain banner. They may share culture, government, or some other feature.
+
+In the first few centuries of measurable time, the precursors to what would become as the "first civilizations" arose and established themselves across the world. Their history is unclear, due to lack of records from that time. 
 
 === Deities ===
 This is a list of the true forms of dieties that exist in Penzavie. Dieties in this text are sometimes referenced to as Aspects of a diety, this is who they truly are, not interpreted by a culture.
