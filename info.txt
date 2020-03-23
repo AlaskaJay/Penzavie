@@ -82,7 +82,9 @@ Before Omkrei came to the system, Plumos was a young star with a protoplanetary 
 	> Rak
 	> Mandula
 > Omkrei creates the Aiens, dieties for the humanoid sentient life of Penzavie, then gives them a model for what humanoid life looks like (made of stone, mud, and wood) and asks them to replicate it.
-	> Luctu, creator of Elves, which includes standard elves, drow
+	> Luctu, creator of Elves, which includes standard elves, drow, dolr
+		> Dolr are blue skinned humanoids with antennae which help them with balance
+		> I might make Dolr be Zuthem, or make them more "orcish" to be a counterpoint to elves?
 	> Fermul, creator of Dwarves, which includes standard dwarves and gnomes
 	> Conum, creator of Zuthem, which includes humans and orcs
 	> Berth, creator of Pethem, which includes halflings, goblins, and kobolds
@@ -106,7 +108,28 @@ Ancestries can produce fertile offspring between them, but over time, any commun
 === History ===
 Year 0, the Epoch, is marked by the awakening of Plumos as a diety. This awakening allowed "civilization" (loaded term) to arise where it could not before in the everchanging realm before measurable time. This text will use civilization to mean any group of people who self-organize themselves and identify under a certain banner. They may share culture, government, or some other feature.
 
-In the first few centuries of measurable time, the precursors to what would become as the "first civilizations" arose and established themselves across the world. Their history is unclear, due to lack of records from that time. 
+In the first few centuries of measurable time, the precursors to what would become as the "first civilizations" arose and established themselves across the world. Their history is unclear, due to lack of records from that time. They are as follows:
+
+> Various tribes in Northern Tooth, including the Kan and Twll lineages, warring among each other
+> Various tribes in Southern Tooth, including those who would become the Tulnid culture, beginning their communication with each other
+> Communes in the North of Shard who would become the Nul culture when they join with their neighbors
+> The various groups who would become the TwaldHas culture, making the first walled towns in Central Shard
+> The Jungle Rivers of South Shard attracted hunters
+> The first domestication of animals happened in plains to the West of the mountains of East Venn with those who made massive fences then after many years of strinking those fences, successfully could farm deer. 
+> Desert wanderers in the Far-East Venn Desert settle near the rivers of this area.
+> Individuals in the Tooth Islands and Tail try to learn sailing, because fish taste nice.
+> The hearty people in the west river valley in South Chain who would become the culture of Ochisio.
 
 === Deities ===
 This is a list of the true forms of dieties that exist in Penzavie. Dieties in this text are sometimes referenced to as Aspects of a diety, this is who they truly are, not interpreted by a culture.
+
+> Omkrei, grand creator
+> Nature, an unnamed god of the Nature and the Natural Realms
+> Dracus, primordial
+> Abdom, primordial
+> Rak, primordial
+> Mandula, primordial
+> Luctu, elves
+> Fermul, dwarves
+> Conum, humans
+> Berth, pethem
