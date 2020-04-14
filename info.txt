@@ -68,6 +68,11 @@ The solar system in which Penzavie exists is as follows:
 > There is a small rocky and ice planet far out. This has three moons. It's cute.
 > ALSO THERE ARE MANY BEAUTIFUL COMETS
 
+=== Geographical Facts ===
+Things that are true about the geography that aren't quiet communicated by the map I guess?
+
+There is a Cyclical Current that makes it so if you go out furth enough to the ocean between Shard and Tooth, you will get pulled clockwise around that ocean. 
+
 === Creation ===
 Before Omkrei came to the system, Plumos was a young star with a protoplanetary disk. Omkrei saw this young system and waited for it to formed it into the Astronomical configuration that the system would eventually settle on. Upon seeing that the system reached it's potential as a place that could be used to grow world supporting fantastic life, Omkrei began work on their vision. Omkrei needed a world where they could test if the conflicts of other realms with constant between realms. 
 
@@ -81,7 +86,7 @@ Before Omkrei came to the system, Plumos was a young star with a protoplanetary 
 	> Abdom
 	> Rak
 	> Mandula
-> Omkrei creates the Aiens, dieties for the humanoid sentient life of Penzavie, then gives them a model for what humanoid life looks like (made of stone, mud, and wood) and asks them to replicate it.
+> Omkrei creates the Aiens, dieties for the humanoid sentient life of Penzavie, then gives them a model for what humanoid life looks like (made of stone, mud, and wood, wrapped in a pelt) and asks them to replicate it. At first, Comun and Berth try to help each other, as they were close, but Omkrei forced them to work on their own, and even though they tried to create different ancestries, Comun and Berth did produce ancestries that were more similar than Luctu's and Fermul's creations. 
 	> Luctu, creator of Elves, which includes standard elves, drow, dolr
 		> Dolr are blue skinned humanoids with antennae which help them with balance
 		> I might make Dolr be Zuthem, or make them more "orcish" to be a counterpoint to elves?
@@ -91,7 +96,7 @@ Before Omkrei came to the system, Plumos was a young star with a protoplanetary 
 > Omkrei breathes deific life into Plumos, charges them with keeping the planes in order, and ends the Age of Creation. Measurable time begins afterwards. 
 
 == Notes on the creations of the Aiens ==
-Humanoid sentient life, along with the creations of the Diviant Watchers, were spread fairly evenly across the globe when they first were created.6
+Humanoid sentient life, along with the creations of the Diviant Watchers, were spread fairly evenly across the globe when they first were created.
 
 > Elves are tall and live long (about 5 centuries)
 > Dwarves are short and live long
@@ -106,30 +111,148 @@ Each of the four ancestries has at least one variant which is reptilian, one var
 Ancestries can produce fertile offspring between them, but over time, any community with multiple ancestries that brings in no other genetic material will tend to magically shift towards whatever ancestry, out of the ancestries present in that community, has the smallest global population at that time. 
 
 === History ===
-Year 0, the Epoch, is marked by the awakening of Plumos as a diety. This awakening allowed "civilization" (loaded term) to arise where it could not before in the everchanging realm before measurable time. This text will use civilization to mean any group of people who self-organize themselves and identify under a certain banner. They may share culture, government, or some other feature.
+Year 0, the Epoch, is marked by the awakening of Plumos as a diety. This awakening allowed "civilization" (loaded term) to arise where it could not before in the everchanging realm before measurable time. This text will use civilization to mean any group of people who self-organize themselves and identify under a certain banner. They may share culture, government, or some other feature. Basically, the awakening of Plumos awakened something in the population of the planet which might have been ambition or something which lead to the development of what Westerns would refer to as civilization as well as like big collections of people which like... yknow... It's a loaded term! 
+
+The year shorthand will be the year followed by the AA which stands for After Awakening... maybe?
 
 In the first few centuries of measurable time, the precursors to what would become as the "first civilizations" arose and established themselves across the world. Their history is unclear, due to lack of records from that time. They are as follows:
 
-> Various tribes in Northern Tooth, including the Kan and Twll lineages, warring among each other
+> Various tribes in Northern Tooth, including the Kan and Twll lineages, warring among each other, then the Kanim Alliance
+ > Kan: Warrior tribe
+ > Twll: particularally trade/merchantile oriented tribe (confed -> fed), fucks up the deal. Pronounce it in a Welsh way
+ > Kanim Alliance is made of Warriors of Kan and Traders of Twll born around 70AA
+ > Twll "hired" a Kan as mercanaries. They then ran a military conquest of the region. A unintellegent leader did not keep their army happy -> A general took power and then used the knowledge they gained about trade to move towards a merchantile (sustainable) gov't structure -> many diplomatic/merchantile annexations of territories along the Blood Rivers.
+ > Leader from Twll named Nim who tried to not give their side of the deal to the Kan, which is bad
+ > Leader from the Kan named/called Kan Sherr, a woman of strength and dignity. She lead the transiation from military to merchantile smoothly, but that was pretty slow because she still had to unite the people with her army. 
+ > Leaders of Zulkanim are called a Kan because of the first Kan, Kan Sherr
+ > The move from Kanim Alliance to Zulkanim was finished by Kan Sherr's son, also named Kan Sherr, the second Kan, which will confuse historians a lot
+  > See: Shrr down in the planar outsider section. 
+ > Kanimy = the origin of the word Company or somethin
 > Various tribes in Southern Tooth, including those who would become the Tulnid culture, beginning their communication with each other
+ > 
 > Communes in the North of Shard who would become the Nul culture when they join with their neighbors
+ > 
 > The various groups who would become the TwaldHas culture, making the first walled towns in Central Shard
+ > 
 > The Jungle Rivers of South Shard attracted hunters
+ > 
 > The first domestication of animals happened in plains to the West of the mountains of East Venn with those who made massive fences then after many years of strinking those fences, successfully could farm deer. 
+ > 
 > Desert wanderers in the Far-East Venn Desert settle near the rivers of this area.
+ > 
 > Individuals in the Tooth Islands and Tail try to learn sailing, because fish taste nice.
+ > 
 > The hearty people in the west river valley in South Chain who would become the culture of Ochisio.
+ > 
+
+(pages refer to my physical notes and are todo for me to copy here)
+River Valley and early Civilizations:
+> Zulkanim Empire, North Tooth
+ > A merchantile state once militarily victorious against their main nemesis state of Tulnid. (military victory because of wodefall)
+ > A land between two rivers, these two rivers are called the Blood Rivers after the establishment of Zulkanim, they flow from a massive glacier called the Giant on the Mountains. The name of this giant is not pronouncable by the creations of the Aiens. This giant is said to been have stabbed by Plumos, but probably consentually? Ice giants claim heritage from this diety. These rivers are trade corridors that helped Zulkanim and later states. Plumos is misunderstood by the Giant on the Mountain who is a glacier honestly. 
+ > Zulkanim is formally declared as a state around 150AA
+  > Unitary State
+  > Predecessors: Many "tribes" -> Kanim Alliance
+  > Creation: Many to One, Violent at times, a unification by force under the Kan Sherr, the first two Kans, who were mother and son. 
+  > Mercenaries were a constant after the alliance grew into the empire. -> No professional army
+ > Zulkanim reached it's peak of territorial reach around xxxAA
+ > Values: 
+  > Water -> Giant on the mountain, stabbed
+  > Trade -> River boats
+  > Blood -> Rivers from the Mountains
+   > Blood oathes -> via stab -> Loyalty -> Blood on Copper to seal a deal
+  > Grain -> Big stone granary -> Ziggurats maybe even!
+  > Ocean/sky -> Zullum Krysmul -> aspect of ocean/sky god specific to this culture
+ > Detests: 
+  > Tulnid Empire
+  > Celebration of Fire
+  > Fire diety is evil to Zulkanim -> Fire used sparingly -> metalurgery is underdevelopped for them
+  > Thievery -> Implant of metal in hand as punishment 
+ > Notable dieties of Zulkanim
+  > Zullum Krysmul => Leader, has domain over ... most elemental things honestly.
+  > Giant on the Mountain, the lifegiver
+  > Evil representation of Fire, child of the Sun according to them
+  > Evil representation of theivery 
+  > Plumos is just there. 
+  > Fertility diety who might just be Conum and Berth? probably their kid... which would be *checks notes* Lavimorre? 
+ > Zulkanim had no ships that could reach the Cyclic Currents and therefor never crossed to Nul (North Shard)
+ > Large stone buildings were a key feature of cities in Zulkanim 
+ > The War with the Tulnid Empire
+  > the "secret" of metalurgery was "stolen" by Zulkanim from the more advanced Tulnid I guess?
+ > Late Zulkanim Human Supremacy
+  > The like 8th? 13th? Kan decides that humans are superior to all other ancestries
+   > Ancestral bias of Incarceration
+   > Constription and prisoners' smeltaries. which is a move away from the mercanary-using merchantile roots
+   > War with the Great Wode required a horde of conscripts => This is after the Wodefall which is important to know. 
+   > what if the fire god is associated with dwarves or whatever by the ruler so that's part of how they "justify" that racism. 
+ > Zulkanim starts declining quickly around xxxAA
+  > Why the Zulkanim Fell: "a line of interesting circumstances"
+   > An unsuccessful campaign into the Great Wode to "claim the land of the great Empire" was blamed on the conscripts and they were thrown in prison, but then the revolt began. Outspoken critics of the Kan were broken free, leading to revolution, but as well, prisoners -> criminals were free to rune loose. Although a new power came to protect/control the captial, the land turned to chaos and raiders into warlords thrived. => I might throw this out. 
+   > Why was there a prison riot in the capital of Zulkanim? Human supremacy
+   > Protuction of metal was done only by criminals -> I assume later, which makes the previous "Blood on Copper" thing weird now
+    > Seen as a way to damn the soul (because you have to work with fire, I think?)
+    > Also making arsenic copper kills you
+   > A prison riot turned revolution demolished the capital's prisons brick by brick
+   > No prison meant no metal production: also not all those prisoners were valid to be revolutionaries
+   > The army had no support and the Emp was killed by many angry peasants
+
+> Tulnid Empire, South Tooth
+ > When did this civ come to be? and how?
+ > When did this civ fall? => When did the Wodefall happen? => when did the Nature god get killed? 
+ > more on page, 27, 32, 37, 
+ > The Tulnid Empire is formally declared as a state around xxxAA
+  > Structure: 
+  > Predecessors: 
+  > Creation: 
+
+> Naldi Island Culture, Tail and the islands nearby
+
+> Nul Communes of the Frozen North, North Shard
+ > page 38, 40
+
+> TwaldHas Plain Culture, Central Shard
+
+> Elthelen Agricultural Collectives, where magic was born, West of the Mountains of East Venn
+ > page 39
+
+> Krall Warnation, far East Venn
+
+> Ochisio, West of South Chain
+
+Next Wave?
+> Page 36 I think has the link? 46?
 
 === Deities ===
 This is a list of the true forms of dieties that exist in Penzavie. Dieties in this text are sometimes referenced to as Aspects of a diety, this is who they truly are, not interpreted by a culture.
 
+Major Dieties
 > Omkrei, grand creator
-> Nature, an unnamed god of the Nature and the Natural Realms
-> Dracus, primordial
-> Abdom, primordial
-> Rak, primordial
-> Mandula, primordial
-> Luctu, elves
-> Fermul, dwarves
-> Conum, humans
-> Berth, pethem
+> Plumos, the living sun
+> The Protector, a gas giant who watches over Penzavie from afar
+> Nature, an unnamed god of the Nature and the Natural Realms, died around DATE AA
+> Dracus, primordial god
+> Abdom, primordial god
+> Rak, primordial god
+> Mandula, primordial god
+> Luctu, god of elves
+> Fermul, god of dwarves
+> Conum, god of humans
+> Berth, god of pethem
+> Magus, god of the arcane
+> Krysmul, god of Sky/Ocean, sibling to Dhillye, child and killer to the Nature god
+> Dhillye, god of the Ground, sibling to Krysmul, child and killer to the Nature god
+> , god of fire
+
+Minor Dieties
+> 
+
+Interesting Highish Level Planar Outsiders of extremely varied power level
+> Zulkanim Sherr, the diefic/personifacation of the Zulkanim Empire as it existed from around 100ishAA to 600AA 
+> Shrr, a trans guy planar outsider who was created by a religious group who thought that Kan Sherr the first Kan and Kan Sherr the second Kan were the same person and transitioned, so they invented this narrative and that created a figure by worship who is named Kan Sherr too, but the title of Kan was ripped from him at some point by the "real Kan Sherr" who might have been a ghost? Anyway Shrr is a strong trans man who is confident, but maybe proud? Might be a devil, but ultimately a cool guy who might like... have some weird assumptions about swords and masculinity
+
+=== Things I mention at some point and should expand on ===
+I might put things here first then put them in somewhere else later. 
+
+> Ice Giants: giant humanoidish things made of ice that are vulnerable to fire damage and hit really hard and maybe shoot ice beams out of their face?
+> Ice Giants also: Just Frost Giants from DnD?
+> Codex Draconus, a text that describes various types of dragons and what those types of dragons act like. IT IS COMPLETE BOGUS AND JUST PLAIN WRONG. You cannot generalize different demographics based on their draconic ancestry. Anyway after a while the pages got imbued with powers such that you can do cool things based on what pages you have describing which "dragon archetypes" are on those pages, which just means whichever character the author was trying to use to represent an entire color of dragons. Having the whole book rebound is pretty powerful, like hand of Vecna maybe even. 
