@@ -15,18 +15,18 @@ Link: https://alaskajay.github.io/Penzavie/map.png
 This section is the explanation of what the various planes of existance of the setting are.
 
 > Penzavie, the prime material, the mixture of magic and mundane. 
-	This plane is as shown by the map, seen above, and is described in great detail in the section labeled History
+ > This plane is as shown by the map, seen above, and is described in great detail in the section labeled History
 > The Mundane Universe, a plain world, not too disimilar to our Earth. No magic at all. 
 > The Magic Realm, a world where magic rules. Hard to many people understand the layout of this realm. 
 > Iustium, the Upper Ring, the Ring of Law, 
-	> Planar North of the prime material
-	> Angels, Devils, Modrons, and Inevitables are from this place.
+ > Planar North of the prime material
+ > Angels, Devils, Modrons, and Inevitables are from this place.
 > Conturb, the Lower Ring, the Ring of Chaos, 
-	> Planar South of the prime material
-	> Archons, Demons, Slaad are from this place.
+ > Planar South of the prime material
+ > Archons, Demons, Slaad are from this place.
 > The Ring of Elements
-	> Circles arounnd the prime material
-	> Elementals are from this place.
+ > Circles arounnd the prime material
+ > Elementals are from this place.
 > The Elsewhere, the space between planes, where Abberations roam.
 
 == About Alignment == 
@@ -58,8 +58,8 @@ The solar system in which Penzavie exists is as follows:
 > Plumos, the star, a wonderful beacon of light. 
 > A rocky and hot planet, dark colors across the surface, blasted by solar winds. Inspitable. The closest to Plumos.
 > Penzavie, the second planet, the one where magic happens. It has two moons.
-	> Cele: A larger moon, tidally locked, orbits every 26 days
-	> Wast: A smaller moon, further out, orbitting once each 53 days. Going there and returning to Penzavie takes from the prime material plane to the Mundane Universe (the universe without magic)
+ > Cele: A larger moon, tidally locked, orbits every 26 days
+ > Wast: A smaller moon, further out, orbitting once each 53 days. Going there and returning to Penzavie takes from the prime material plane to the Mundane Universe (the universe without magic)
 > There are many asteroids between the inner two planets and the outer planets, similar to the solar system containing Earth.
 > The Protector is a gas giant that functions similar to Jupiter and protects the inner planets. There is a diety that is associated with this planet. Going to this planet and then back to Penzavie will put someone in the Prime Material, even if they came from the Mundane Universe. Protector has many many moon and rings.
 > A small rocky planet that is cobalt and brown.
@@ -82,17 +82,17 @@ Before Omkrei came to the system, Plumos was a young star with a protoplanetary 
 > Omkrei creates Conturb and Iustium, which have so much energy, that they slowly begin the develop into the sentient. 
 > Four of the Five Watchers make sentient nonhunan life, which is not what Omkrei wanted. 
 > Omkrei creates the Elemental Ring and throws those four Watchers there for their actions and locks them there. The Deviant watchers are named: 
-	> Dracus
-	> Abdom
-	> Rak
-	> Mandula
+ > Dracus
+ > Abdom
+ > Rak
+ > Mandula
 > Omkrei creates the Aiens, dieties for the humanoid sentient life of Penzavie, then gives them a model for what humanoid life looks like (made of stone, mud, and wood, wrapped in a pelt) and asks them to replicate it. At first, Comun and Berth try to help each other, as they were close, but Omkrei forced them to work on their own, and even though they tried to create different ancestries, Comun and Berth did produce ancestries that were more similar than Luctu's and Fermul's creations. 
-	> Luctu, creator of Elves, which includes standard elves, drow, dolr
-		> Dolr are blue skinned humanoids with antennae which help them with balance
-		> I might make Dolr be Zuthem, or make them more "orcish" to be a counterpoint to elves?
-	> Fermul, creator of Dwarves, which includes standard dwarves and gnomes
-	> Conum, creator of Zuthem, which includes humans and orcs
-	> Berth, creator of Pethem, which includes halflings, goblins, and kobolds
+ > Luctu, creator of Elves, which includes standard elves, drow, dolr
+  > Dolr are blue skinned humanoids with antennae which help them with balance
+  > I might make Dolr be Zuthem, or make them more "orcish" to be a counterpoint to elves?
+ > Fermul, creator of Dwarves, which includes standard dwarves and gnomes
+ > Conum, creator of Zuthem, which includes humans and orcs
+ > Berth, creator of Pethem, which includes halflings, goblins, and kobolds
 > Omkrei breathes deific life into Plumos, charges them with keeping the planes in order, and ends the Age of Creation. Measurable time begins afterwards. 
 
 == Notes on the creations of the Aiens ==
@@ -121,8 +121,8 @@ In the first few centuries of measurable time, the precursors to what would beco
  > Kan: Warrior tribe
  > Twll: particularally trade/merchantile oriented tribe (confed -> fed), fucks up the deal. Pronounce it in a Welsh way
  > Kanim Alliance is made of Warriors of Kan and Traders of Twll born around 70AA
- > Twll "hired" a Kan as mercanaries. They then ran a military conquest of the region. A unintellegent leader did not keep their army happy -> A general took power and then used the knowledge they gained about trade to move towards a merchantile (sustainable) gov't structure -> many diplomatic/merchantile annexations of territories along the Blood Rivers.
- > Leader from Twll named Nim who tried to not give their side of the deal to the Kan, which is bad
+ > Twll "hired" a Kan as mercanaries. They then ran a military conquest of the region. A unintellegent leader did not keep their army happy -> A general took power and then used the knowledge they gained about trade to move towards a merchantile (sustainable) gov't structure -> many diplomatic/merchantile annexations of territories along the Blood Rivers. 
+ > Leader from Twll named Nim who tried to not give their side of the deal to the Kan, which is bad => 95 ish AA for when the betrayal happens? 
  > Leader from the Kan named/called Kan Sherr, a woman of strength and dignity. She lead the transiation from military to merchantile smoothly, but that was pretty slow because she still had to unite the people with her army. 
  > Leaders of Zulkanim are called a Kan because of the first Kan, Kan Sherr
  > The move from Kanim Alliance to Zulkanim was finished by Kan Sherr's son, also named Kan Sherr, the second Kan, which will confuse historians a lot
@@ -171,13 +171,18 @@ River Valley and early Civilizations:
  > Notable dieties of Zulkanim
   > Zullum Krysmul => Leader, has domain over ... most elemental things honestly.
   > Giant on the Mountain, the lifegiver
-  > Evil representation of Fire, child of the Sun according to them
+  > Evil representation of Fire, child of the Sun according to them => Actually Throk. 
+   > Throk is completely okay with playing the role of the betrayer who was sent by the good god of the Sun and then stabbed out the Giant on the Mountain. 
   > Evil representation of theivery 
-  > Plumos is just there. 
+  > Plumos is just there. They're seen as good because they keep the Giant alive even with the massive stab wounds. 
   > Fertility diety who might just be Conum and Berth? probably their kid... which would be *checks notes* Lavimorre? 
  > Zulkanim had no ships that could reach the Cyclic Currents and therefor never crossed to Nul (North Shard)
  > Large stone buildings were a key feature of cities in Zulkanim 
+ > Zulkanim had one ruler called a Kan. 
  > The War with the Tulnid Empire
+  > Zulkanum was always on the backfoot from around 250-450AA
+   > No formal military like Tulnid
+   > Lesser ability to make metal tools 
   > the "secret" of metalurgery was "stolen" by Zulkanim from the more advanced Tulnid I guess?
  > Late Zulkanim Human Supremacy
   > The like 8th? 13th? Kan decides that humans are superior to all other ancestries
@@ -200,10 +205,27 @@ River Valley and early Civilizations:
  > When did this civ come to be? and how?
  > When did this civ fall? => When did the Wodefall happen? => when did the Nature god get killed? 
  > more on page, 27, 32, 37, 
- > The Tulnid Empire is formally declared as a state around xxxAA
-  > Structure: 
-  > Predecessors: 
-  > Creation: 
+  > 19: Fish/Trading?
+  > Tulnid got to metalurgery first?
+  > 32
+   > Strong military empire
+   > Never let go of their military tradition while Zulkanim did. 
+   > Military service leads to political service
+  > 37 
+   > Coastal assaults on Zulkanim were possible because of the Cyclic Currents? I might throw this out. 
+ > The Tulnid Empire is formally declared as a state around 200AA
+  > Structure: Empire? Unitary State
+  > Predecessors: Does it matter? 
+  > Creation: United by Conquest, many to one
+ > Values 
+  > Strength
+   > Personal Strength => Left hand
+   > Military Strength => Right hand
+  > Control
+  > Metal => Also Throk! 
+ > Wodefall and the Destruction of the Tulnid Empire => 450AA ish for Wodefall. 
+  > Some people remained in the Great Wode after it's creation, but no major settlements were made for a long time => CHANGE THIS CUZ YIKES?
+  > What is the Wodefall? Krysmul and Dhillye kill the god of Nature, the corpse falls on the world and a massive forest/jungle/wode grows from it. 
 
 > Naldi Island Culture, Tail and the islands nearby
 
@@ -234,14 +256,14 @@ Major Dieties
 > Abdom, primordial god
 > Rak, primordial god
 > Mandula, primordial god
-> Luctu, god of elves
-> Fermul, god of dwarves
-> Conum, god of humans
-> Berth, god of pethem
+> Luctu, god of elves, an Aien.
+> Fermul, god of dwarves, an Aien. 
+> Conum, god of humans, an Aien.
+> Berth, god of pethem, an Aien.
 > Magus, god of the arcane
 > Krysmul, god of Sky/Ocean, sibling to Dhillye, child and killer to the Nature god
-> Dhillye, god of the Ground, sibling to Krysmul, child and killer to the Nature god
-> , god of fire
+> Dhillye, god of the Ground, Minerals, and Land, sibling to Krysmul, child and killer to the Nature god
+> Throk, a diefic metalworker and the owner of her Great Forge in Iustium. Seen as the diety of fire and metal by some. Can only be worshipped by the creations of the Aiens. 
 
 Minor Dieties
 > 
